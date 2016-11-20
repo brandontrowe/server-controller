@@ -1,0 +1,7 @@
+{
+  "api.brandontrowe.com": "http://localhost:8003",
+  "chat.brandontrowe.com": "http://localhost:3000",
+  "iot.brandontrowe.com": "http://localhost:3001",
+  "cluster.brandontrowe.com": "http://localhost:3002",
+  "notif.brandontrowe.com": "http://localhost:4100"
+}
